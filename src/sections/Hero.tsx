@@ -52,7 +52,7 @@ export function Hero() {
         <div className="reveal relative">
           <div className="overflow-hidden rounded-[2rem] border-4 border-primary-foreground/15 shadow-2xl">
             <img
-              src="/images/zimnyaya-skazka.jpg"
+              src="images/zimnyaya-skazka.jpg"
               alt="Подарочный бокс «Зимняя сказка» со свечами и птичкой"
               className="h-[420px] w-full object-cover md:h-[520px]"
               loading="eager"
